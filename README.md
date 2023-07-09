@@ -7,8 +7,8 @@ Load the Maps JavaScript API by using Dynamic Library Import
 
 ## Restrict Your API Key
   1. Go to Google Maps Credentials
-    ![Go to Google Maps Credentials](go-to-google-maps-credentials.jpg)
+    ![Go to Google Maps Credentials](./docs/go-to-google-maps-credentials.jpg)
   2. Edit the API Key
-    ![Edit the API Key](edit-key-02.jpg)
+    ![Edit the API Key](./docs/edit-key-02.jpg)
   3. Add **Key restrictions** by *Application Restriction* or *API Restrictions*
-    ![Key Restrictions](edit-key-03.jpg)
+    ![Key Restrictions](./docs/edit-key-03.jpg)
