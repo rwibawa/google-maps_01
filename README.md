@@ -12,3 +12,6 @@ Load the Maps JavaScript API by using Dynamic Library Import
     ![Edit the API Key](./docs/img/edit-key-02.jpg)
   3. Add **Key restrictions** by *Application Restriction* or *API Restrictions*
     ![Key Restrictions](./docs/img/edit-key-03.jpg)
+
+## Result:
+![Map 01](docs/img/map-01.jpg)
